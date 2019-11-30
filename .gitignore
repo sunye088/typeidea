@@ -1,0 +1,6 @@
+
+LANGUAGE_CODE = 'en-us'
+
+*.pyc
+*.swp
+*.sqlite3
